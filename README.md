@@ -1,11 +1,11 @@
-## Image1
+## Result
 ![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img1.png)
 
-## Image2
+<!-- ## Image2
 ![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img2.png)
 
 ## Image2
-![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img3.png)
+![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img3.png) -->
 
 
 # catanddog
