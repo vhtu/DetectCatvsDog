@@ -8,8 +8,8 @@
 ![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img3.png) -->
 
 
-# catanddog
-
+# Cat vs Dog detector
+- [Lab: Deep Learning Course with Flutter & Python – Build 6 AI Apps](https://courseupload.com/deep-learning-course-with-flutter-python-build-6-ai-apps/)
 A new Flutter project.
 
 ## Getting Started
