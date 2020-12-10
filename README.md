@@ -9,7 +9,7 @@
 
 
 # Cat vs Dog detector
-- [Lab: Deep Learning Course with Flutter & Python – Build 6 AI Apps](https://courseupload.com/deep-learning-course-with-flutter-python-build-6-ai-apps/)
+- [Lab: Deep Learning Course with Flutter & Python – Build 6 AI Apps](https://www.udemy.com/course/flutter-deeplearning-course/).
 A new Flutter project.
 
 ## Getting Started
