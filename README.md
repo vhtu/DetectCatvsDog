@@ -1,5 +1,5 @@
 ## Result
-![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img1.png)
+![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img4.png)
 
 <!-- ## Image2
 ![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img2.png)
